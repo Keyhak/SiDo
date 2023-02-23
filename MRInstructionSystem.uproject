@@ -15,5 +15,8 @@
 			"Name": "MultiUserClient",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"HoloLens"
 	]
 }
